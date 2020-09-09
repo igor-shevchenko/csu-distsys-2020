@@ -1,2 +1,14 @@
-# csu-distsys-2020
-Distributed systems class at Chelyabinsk State University, 2020
+# Проектирование и разработка распределенных программных систем
+
+Лекции и материалы по курсу распределенных систем в ЧелГУ, группа ПрИ-401.
+
+## Лекции
+
+### Лекция 1. Введение в распределенные системы
+
+[Презентация](https://docs.google.com/presentation/d/1dKzu38tkdH4NswpoA1xSHBgD2CTQ2E-mPTfmwF19GV0/edit?usp=sharing)
+
+Литература:
+1. Мартин Клеппман. Высоконагруженные приложения. Программирование, масштабирование, поддержка
+2. [Distributed systems for fun and profit](http://book.mixu.net/distsys/)
+3. [Страх и ненависть в распределённых системах](https://habr.com/ru/post/322876/)

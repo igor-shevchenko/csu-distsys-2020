@@ -8,10 +8,19 @@
 
 [Презентация](https://docs.google.com/presentation/d/1dKzu38tkdH4NswpoA1xSHBgD2CTQ2E-mPTfmwF19GV0/edit?usp=sharing)
 
-**Литература**
+**Ссылки**
 1. Мартин Клеппман. Высоконагруженные приложения. Программирование, масштабирование, поддержка
 2. [Distributed systems for fun and profit](http://book.mixu.net/distsys/)
 3. [Страх и ненависть в распределённых системах](https://habr.com/ru/post/322876/)
+
+
+### Лекция 2. Асинхронное программирование
+
+[Презентация](https://docs.google.com/presentation/d/1rhkH8aMvMeT8BKP66jPAsK6xILwTX-SD_hGHxOZwwxI/edit?usp=sharing)
+
+**Ссылки**
+1. [Highload++ для начинающих](http://highload.guide/blog/highload-for-beginners.html)
+2. [Анатомия веб-сервиса](http://highload.guide/blog/inside-webserver.html)
 
 ## Практика
 

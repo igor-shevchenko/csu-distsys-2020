@@ -22,6 +22,16 @@
 1. [Highload++ для начинающих](http://highload.guide/blog/highload-for-beginners.html)
 2. [Анатомия веб-сервиса](http://highload.guide/blog/inside-webserver.html)
 
+
+### Лекция 3. Модели данных
+
+[Презентация](https://docs.google.com/presentation/d/1kFSOd4dU5wlFysUVzW85R9MLSkXaueEwIpNOqkhw7WM/edit?usp=sharing)
+
+**Ссылки**
+1. [NoSQL – коротко о главном](http://highload.guide/blog/NoSQL-quick-facts.html)
+2. Мартин Клеппман. Высоконагруженные приложения. Программирование, масштабирование, поддержка. Глава 2
+
+
 ## Практика
 
 ### Практика 1. Контейнеризация и Docker
@@ -37,3 +47,22 @@
 1. [Установка Docker](https://docs.docker.com/get-docker/)
 2. [Документация по Docker](https://docs.docker.com/get-started/)
 3. [Документация по Dockerfile](https://docs.docker.com/engine/reference/builder/)
+
+### Практика 2. Взаимодействие контейнеров
+
+[Презентация](https://docs.google.com/presentation/d/1VHCKm0d5Qjuivb6XH6Qk7n5rZlbwin_taiLNCn5vk9s/edit?usp=sharing)
+
+**Задание**
+1. Дописать приложение, чтобы оно содержало два эндпоинта
+  * POST /links — сохраняет ссылку в БД и возвращает ее id
+  * GET /links/<id> — отдает ссылку из БД по id
+2. Добавить контейнер с PostgreSQL и настроить его взаимодействие с приложением
+3. Настроить запуск обоих контейнеров через Docker Compose
+
+
+**Ссылки**
+1. [Postgres по Docker Hub](https://hub.docker.com/_/postgres)
+2. [Сеть в Docker](https://docs.docker.com/network/network-tutorial-standalone/)
+3. [Volumes в Docker](https://docs.docker.com/storage/volumes/)
+4. [Docker Compose](https://docs.docker.com/compose/)
+5. [Документация по docker-compose.yml](https://docs.docker.com/compose/compose-file/)

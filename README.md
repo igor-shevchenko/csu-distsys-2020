@@ -54,6 +54,8 @@
 
 ### Практика 1. Контейнеризация и Docker
 
+![](diagrams/lab1.png)
+
 [Презентация](https://docs.google.com/presentation/d/1jhSh3OhNGEcsuPn_a_NQsS6R1bnwO4x_S7JjWACNizk/edit?usp=sharing)
 
 **Задание**
@@ -67,6 +69,8 @@
 3. [Документация по Dockerfile](https://docs.docker.com/engine/reference/builder/)
 
 ### Практика 2. Взаимодействие контейнеров
+
+![](diagrams/lab2.png)
 
 [Презентация](https://docs.google.com/presentation/d/1VHCKm0d5Qjuivb6XH6Qk7n5rZlbwin_taiLNCn5vk9s/edit?usp=sharing)
 
@@ -85,6 +89,8 @@
 5. [Документация по docker-compose.yml](https://docs.docker.com/compose/compose-file/)
 
 ### Практика 3. Работа с RabbitMQ
+
+![](diagrams/lab3.png)
 
 [Презентация](https://docs.google.com/presentation/d/1-4KNodiYQ3itf1te0bjhpxW2AImLBqcOayHXv8Tkx2Q/edit?usp=sharing)
 

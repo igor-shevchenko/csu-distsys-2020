@@ -50,6 +50,17 @@
 2. [101 способ приготовления RabbitMQ и немного о pipeline архитектуре](http://highload.guide/blog/101-RabbitMQ-way-of-cooking.html)
 3. [Очереди и блокировки. Теория и практика](http://highload.guide/blog/queues-and-lock.html)
 
+### Лекция 6. Горизонтальное масштабирование
+
+[Презентация](https://docs.google.com/presentation/d/14f9pJC6vX-W3nvg0BMsWQAjZqJ1Y2R5PRZeVM6BJ97c/edit?usp=sharing)
+
+**Ссылки**
+1. [Общая логика масштабирования](http://highload.guide/blog/scaling-logic.html)
+2. [Масштабирование бэкенда](https://xakep.ru/2012/11/30/backend-zoom/)
+3. [Горизонтальное масштабирование. Что, зачем, когда и как](http://highload.guide/blog/scaling-what-why-when-and-how.html)
+4. [Как мы сделали ровную балансировку нагрузки на фронтенд-кластере](http://highload.guide/blog/load-balancing-frontend-cluster.html)
+
+
 ## Практика
 
 ### Практика 1. Контейнеризация и Docker

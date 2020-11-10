@@ -61,6 +61,17 @@
 4. [Как мы сделали ровную балансировку нагрузки на фронтенд-кластере](http://highload.guide/blog/load-balancing-frontend-cluster.html)
 
 
+### Лекция 7. Кэширование
+
+[Презентация](https://docs.google.com/presentation/d/1vPHpahFvAdmUcM94zrQS99h3kH4_Qw-jxkY9vIIu83c/edit?usp=sharing)
+
+**Ссылки**
+1. [Web, кэширование и memcached](http://highload.guide/blog/web-caching-memcached.html)
+2. [Кэширование данных в web приложениях. Использование memcached](http://highload.guide/blog/caching-data-in-web-applications.html)
+3. [Использование memcached и Redis в высоконагруженных проектах](http://highload.guide/blog/using-memcached-and-redis.html)
+
+
+
 ## Практика
 
 ### Практика 1. Контейнеризация и Docker

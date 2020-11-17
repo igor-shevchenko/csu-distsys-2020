@@ -142,3 +142,19 @@
 2. [Документация по nginx](http://nginx.org/ru/docs/beginners_guide.html)
 3. [Балансировка нагрузки в nginx](http://nginx.org/en/docs/http/load_balancing.html)
 
+
+### Практика 5. Кэширование в Redis
+
+![](diagrams/lab5.png)
+
+[Презентация](https://docs.google.com/presentation/d/1ZPnZc79EihqpX_904Sgq_K3Sq2ZPvglVQg2DVMfkKdc/edit?usp=sharing)
+
+**Задание**
+1. Добавить контейнер с Redis
+2. Добавить в коде консьюмера использование Redis в качестве кэша для ответов от внешних сервисов
+
+
+**Ссылки**
+1. [Redis на Docker Hub](https://hub.docker.com/_/redis)
+2. [Документация по Redis (введение)](https://redis.io/topics/data-types-intro)
+

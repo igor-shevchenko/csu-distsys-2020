@@ -2,9 +2,11 @@
 
 Лекции и материалы по курсу распределенных систем в ЧелГУ, группа ПрИ-401.
 
-## Лекции
+## Первый семестр
 
-### Лекция 1. Введение в распределенные системы
+### Лекции
+
+#### Лекция 1. Введение в распределенные системы
 
 [Презентация](https://docs.google.com/presentation/d/1dKzu38tkdH4NswpoA1xSHBgD2CTQ2E-mPTfmwF19GV0/edit?usp=sharing)
 
@@ -14,7 +16,7 @@
 3. [Страх и ненависть в распределённых системах](https://habr.com/ru/post/322876/)
 
 
-### Лекция 2. Асинхронное программирование
+#### Лекция 2. Асинхронное программирование
 
 [Презентация](https://docs.google.com/presentation/d/1rhkH8aMvMeT8BKP66jPAsK6xILwTX-SD_hGHxOZwwxI/edit?usp=sharing)
 
@@ -23,7 +25,7 @@
 2. [Анатомия веб-сервиса](http://highload.guide/blog/inside-webserver.html)
 
 
-### Лекция 3. Модели данных
+#### Лекция 3. Модели данных
 
 [Презентация](https://docs.google.com/presentation/d/1kFSOd4dU5wlFysUVzW85R9MLSkXaueEwIpNOqkhw7WM/edit?usp=sharing)
 
@@ -32,7 +34,7 @@
 2. Мартин Клеппман. Высоконагруженные приложения. Программирование, масштабирование, поддержка. Глава 2
 
 
-### Лекция 4. Коммуникация приложений
+#### Лекция 4. Коммуникация приложений
 
 [Презентация](https://docs.google.com/presentation/d/1uculh-tzuiqvp36jI3Do-Ii4oC7PeU1ERTZnZ_jWUlc/edit?usp=sharing)
 
@@ -41,7 +43,7 @@
 2. Сэм Ньюмен. Создание микросервисов, глава 4
 
 
-### Лекция 5. Очереди сообщений
+#### Лекция 5. Очереди сообщений
 
 [Презентация](https://docs.google.com/presentation/d/18Y-rkn9rK3tW-iq-vkyui7iv12CnS0t0FYe_B9OoqEI/edit?usp=sharing)
 
@@ -50,7 +52,7 @@
 2. [101 способ приготовления RabbitMQ и немного о pipeline архитектуре](http://highload.guide/blog/101-RabbitMQ-way-of-cooking.html)
 3. [Очереди и блокировки. Теория и практика](http://highload.guide/blog/queues-and-lock.html)
 
-### Лекция 6. Горизонтальное масштабирование
+#### Лекция 6. Горизонтальное масштабирование
 
 [Презентация](https://docs.google.com/presentation/d/14f9pJC6vX-W3nvg0BMsWQAjZqJ1Y2R5PRZeVM6BJ97c/edit?usp=sharing)
 
@@ -61,7 +63,7 @@
 4. [Как мы сделали ровную балансировку нагрузки на фронтенд-кластере](http://highload.guide/blog/load-balancing-frontend-cluster.html)
 
 
-### Лекция 7. Кэширование
+#### Лекция 7. Кэширование
 
 [Презентация](https://docs.google.com/presentation/d/1vPHpahFvAdmUcM94zrQS99h3kH4_Qw-jxkY9vIIu83c/edit?usp=sharing)
 
@@ -71,7 +73,7 @@
 3. [Использование memcached и Redis в высоконагруженных проектах](http://highload.guide/blog/using-memcached-and-redis.html)
 
 
-### Лекция 8. Масштабирование БД
+#### Лекция 8. Масштабирование БД
 
 [Презентация](https://docs.google.com/presentation/d/1ussOGD0R6oJV2j9PAViYyB3g53OgTEbJA0MeKwVpOVY/edit?usp=sharing)
 
@@ -80,9 +82,9 @@
 2. [Шардинг: паттерны и антипаттерны](https://habr.com/ru/company/oleg-bunin/blog/313366/)
 
 
-## Практика
+### Практика
 
-### Практика 1. Контейнеризация и Docker
+#### Практика 1. Контейнеризация и Docker
 
 ![](diagrams/lab1.png)
 
@@ -98,7 +100,7 @@
 2. [Документация по Docker](https://docs.docker.com/get-started/)
 3. [Документация по Dockerfile](https://docs.docker.com/engine/reference/builder/)
 
-### Практика 2. Взаимодействие контейнеров
+#### Практика 2. Взаимодействие контейнеров
 
 ![](diagrams/lab2.png)
 
@@ -118,7 +120,7 @@
 4. [Docker Compose](https://docs.docker.com/compose/)
 5. [Документация по docker-compose.yml](https://docs.docker.com/compose/compose-file/)
 
-### Практика 3. Работа с RabbitMQ
+#### Практика 3. Работа с RabbitMQ
 
 ![](diagrams/lab3.png)
 
@@ -135,7 +137,7 @@
 3. [Healthchecks в docker-compose](https://stackoverflow.com/questions/31746182/docker-compose-wait-for-container-x-before-starting-y )
 
 
-### Практика 4. Балансировка нагрузки через nginx
+#### Практика 4. Балансировка нагрузки через nginx
 
 ![](diagrams/lab4.png)
 
@@ -151,7 +153,7 @@
 3. [Балансировка нагрузки в nginx](http://nginx.org/en/docs/http/load_balancing.html)
 
 
-### Практика 5. Кэширование в Redis
+#### Практика 5. Кэширование в Redis
 
 ![](diagrams/lab5.png)
 
@@ -167,7 +169,7 @@
 2. [Документация по Redis (введение)](https://redis.io/topics/data-types-intro)
 
 
-## Вопросы к экзамену
+### Вопросы к экзамену
 
 1. Распределенные системы: какие проблемы они решают и какие новые проблемы возникают в них
 2. Асинхронное программирование
@@ -188,3 +190,17 @@
 17. Репликация данных в БД: для чего она нужна и как реализуется
 18. Репликация данных в БД: проблемы репликации и как они решаются
 18. Шардинг данных в БД
+
+
+## Второй семестр
+
+### Лекции
+
+#### Лекция 1. Микросервисы
+
+[Презентация](https://docs.google.com/presentation/d/1-JSi-vqYrGBKfsNwJkeqrFmamXBwUpnJqHiftdfEllI/edit?usp=sharing)
+
+**Ссылки**
+1. Сэм Ньюмен. Создание микросервисов
+2. Александр Бындю. [От микросервисного монолита к оркестратору](https://blog.byndyu.ru/2020/04/blog-post_14.html)
+3. Паттерны с [microservices.io](https://microservices.io/): [монолитная архитектура](https://microservices.io/patterns/monolithic.html), [микросервисная архитектура](https://microservices.io/patterns/microservices.html), [API gateway](https://microservices.io/patterns/apigateway.html), [Client-side service discovery](https://microservices.io/patterns/client-side-discovery.html), [Server-side service discovery](https://microservices.io/patterns/server-side-discovery.html)

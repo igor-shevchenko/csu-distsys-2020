@@ -222,6 +222,12 @@
 
 ### Практика
 
+Разработка интернет-магазина на микросервисах.
+
+![](diagrams/mcs-lab-all.png)
+
 #### Практика 6. Админка для микросервисного интернет-магазина
+
+![](diagrams/mcs-lab1.png)
 
 [Презентация](https://docs.google.com/presentation/d/1aDotM3VrlguUDZKHL1WNn35wZ07zdhQgPypep3AJNRU/edit?usp=sharing)

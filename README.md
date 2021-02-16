@@ -196,7 +196,7 @@
 
 ### Лекции
 
-#### Лекция 1. Микросервисы
+#### Лекция 9. Микросервисы
 
 [Презентация](https://docs.google.com/presentation/d/1-JSi-vqYrGBKfsNwJkeqrFmamXBwUpnJqHiftdfEllI/edit?usp=sharing)
 
@@ -204,3 +204,24 @@
 1. Сэм Ньюмен. Создание микросервисов
 2. Александр Бындю. [От микросервисного монолита к оркестратору](https://blog.byndyu.ru/2020/04/blog-post_14.html)
 3. Паттерны с [microservices.io](https://microservices.io/): [монолитная архитектура](https://microservices.io/patterns/monolithic.html), [микросервисная архитектура](https://microservices.io/patterns/microservices.html), [API gateway](https://microservices.io/patterns/apigateway.html), [Client-side service discovery](https://microservices.io/patterns/client-side-discovery.html), [Server-side service discovery](https://microservices.io/patterns/server-side-discovery.html)
+
+
+#### Лекция 10. DDD
+
+[Презентация](https://docs.google.com/presentation/d/1sj7ZS9bUzMzOgPGuTdsISmZ4JmVSMQmYonm0bsWsI5c/edit?usp=sharing)
+
+[Код примера](https://github.com/urfu-code/Darts)
+
+**Литература**
+
+1. Эрик Эванс. Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем
+2. [Domain Driven Design Quickly — краткое содержание книги Эрика Эванса](http://www.infoq.com/minibooks/domain-driven-design-quickly/)
+3. [Harry Percival, Bob Gregory. Architecture Patterns with Python](https://www.cosmicpython.com/)
+4. [Лекция по DDD на ulearn.me](https://ulearn.me/course/cs2/Chto_takoe_DDD_41922668-4105-4ea0-a1c1-ef138e5441bb)
+
+
+### Практика
+
+#### Практика 6. Админка для микросервисного интернет-магазина
+
+[Презентация](https://docs.google.com/presentation/d/1aDotM3VrlguUDZKHL1WNn35wZ07zdhQgPypep3AJNRU/edit?usp=sharing)

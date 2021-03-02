@@ -219,6 +219,18 @@
 3. [Harry Percival, Bob Gregory. Architecture Patterns with Python](https://www.cosmicpython.com/)
 4. [Лекция по DDD на ulearn.me](https://ulearn.me/course/cs2/Chto_takoe_DDD_41922668-4105-4ea0-a1c1-ef138e5441bb)
 
+#### Лекция 11. Паттерны работы с БД
+
+[Презентация](https://docs.google.com/presentation/d/1ncCmdexPH5UGLRHY9ck3Krx3_dE2rq-_YxFacYivcXg/edit?usp=sharing)
+
+**Литература**
+1. [Джимми Богард про агрегаты](https://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/)
+2. [Мартин Фаулер про CQS](https://martinfowler.com/bliki/CommandQuerySeparation.html)
+3. [Грег Янг. CQRS Documents](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
+4. [Уди Дахан. Clarified CQRS](https://udidahan.com/2009/12/09/clarified-cqrs/)  
+5. [Александр Бындю. CQRS на практике](https://blog.byndyu.ru/2014/07/command-and-query-responsibility.html)
+
+
 
 ### Практика
 
@@ -231,3 +243,10 @@
 ![](diagrams/mcs-lab1.png)
 
 [Презентация](https://docs.google.com/presentation/d/1aDotM3VrlguUDZKHL1WNn35wZ07zdhQgPypep3AJNRU/edit?usp=sharing)
+
+
+#### Практика 7. Каталог
+
+![](diagrams/mcs-lab2.png)
+
+[Презентация](https://docs.google.com/presentation/d/1c0njUDZXHYNmDvb8NHlE7n3H8JQs0kzNXDxgBx2067I/edit?usp=sharing)

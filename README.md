@@ -230,6 +230,13 @@
 4. [Уди Дахан. Clarified CQRS](https://udidahan.com/2009/12/09/clarified-cqrs/)  
 5. [Александр Бындю. CQRS на практике](https://blog.byndyu.ru/2014/07/command-and-query-responsibility.html)
 
+#### Лекция 12. Аутентификация и авторизация
+
+[Презентация](https://docs.google.com/presentation/d/1ZalmRr9RaPVaAY1TRFmBr69lbJSBF3GSigiIfIyuHg0/edit?usp=sharing)
+
+**Литература**
+1. Сэм Ньюмен. Создание микросервисов
+2. [JSON Web Tokens](https://jwt.io/)
 
 
 ### Практика
@@ -250,3 +257,11 @@
 ![](diagrams/mcs-lab2.png)
 
 [Презентация](https://docs.google.com/presentation/d/1c0njUDZXHYNmDvb8NHlE7n3H8JQs0kzNXDxgBx2067I/edit?usp=sharing)
+
+
+#### Практика 8. Аутентификация и авторизация
+
+![](diagrams/mcs-lab3.png)
+
+[Презентация](https://docs.google.com/presentation/d/1ZalmRr9RaPVaAY1TRFmBr69lbJSBF3GSigiIfIyuHg0/edit?usp=sharing)
+

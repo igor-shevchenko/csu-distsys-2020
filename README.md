@@ -263,5 +263,5 @@
 
 ![](diagrams/mcs-lab3.png)
 
-[Презентация](https://docs.google.com/presentation/d/1ZalmRr9RaPVaAY1TRFmBr69lbJSBF3GSigiIfIyuHg0/edit?usp=sharing)
+[Презентация](https://docs.google.com/presentation/d/1vN03kpiUPz-7wcG3P4F3YgEg8QTpbQoGd155FNpu12s/edit?usp=sharing)
 

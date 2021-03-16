@@ -238,6 +238,14 @@
 1. Сэм Ньюмен. Создание микросервисов
 2. [JSON Web Tokens](https://jwt.io/)
 
+#### Лекция 13. Паттерны стабильности
+
+[Презентация](https://docs.google.com/presentation/d/168zKv9IuMg-XCztm5pGj_gNtL5VMnwBh_nTKzzUrAzk/edit?usp=sharing)
+
+**Литература**
+1. Майкл Нейгард. Release it! Проектирование и дизайн ПО для тех, кому не всё равно
+2. [SRE Book](https://sre.google/sre-book/table-of-contents/)
+
 
 ### Практика
 
@@ -265,3 +273,9 @@
 
 [Презентация](https://docs.google.com/presentation/d/1vN03kpiUPz-7wcG3P4F3YgEg8QTpbQoGd155FNpu12s/edit?usp=sharing)
 
+
+#### Практика 9. Корзина
+
+![](diagrams/mcs-lab4.png)
+
+[Презентация](https://docs.google.com/presentation/d/10BLHCrgXC4Qu5087CwuNRwYVx6yQrbCrufdkrHZdT4M/edit?usp=sharing)

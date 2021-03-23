@@ -245,6 +245,15 @@
 **Литература**
 1. Майкл Нейгард. Release it! Проектирование и дизайн ПО для тех, кому не всё равно
 2. [SRE Book](https://sre.google/sre-book/table-of-contents/)
+3. [Graceful degradation. Доклад Яндекс.Такси](https://habr.com/ru/company/yandex/blog/438606/)
+
+#### Лекция 14. Мониторинг
+
+[Презентация](https://docs.google.com/presentation/d/15tQKXdiidawyNFMmAobCR2hgRFUCM2NrUlcQgpqg1VA/edit?usp=sharing)
+
+**Литература**
+1. Сэм Ньюмен. Создание микросервисов
+2. [SRE Book](https://sre.google/sre-book/table-of-contents/)
 
 
 ### Практика
@@ -279,3 +288,10 @@
 ![](diagrams/mcs-lab4.png)
 
 [Презентация](https://docs.google.com/presentation/d/10BLHCrgXC4Qu5087CwuNRwYVx6yQrbCrufdkrHZdT4M/edit?usp=sharing)
+
+
+#### Практика 10. Заказы
+
+![](diagrams/mcs-lab-all.png)
+
+[Презентация](https://docs.google.com/presentation/d/1cYMOniXu06Ab7AF2R_X4urwG8Sxz7imFKXha2MrZl5U/edit?usp=sharing)
